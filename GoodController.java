@@ -28,9 +28,8 @@ import java.util.Random;
 public class GoodController {
      @Resource
      GoodsService goodsService;
-        //第一次提交99999999
-       //。。。。。。。。。。。
-     //哈哈哈哈哈哈哈哈
+        //第一次提交999999998798749
+
     @RequestMapping("getCheckCode")
     @ResponseBody
     public String getCheckCode(String email){
