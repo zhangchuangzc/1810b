@@ -30,6 +30,7 @@ public class GoodController {
      GoodsService goodsService;
         //第一次提交999999998798749
 
+//哈哈哈
     @RequestMapping("getCheckCode")
     @ResponseBody
     public String getCheckCode(String email){
