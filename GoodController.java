@@ -1,4 +1,4 @@
-package com.jk.controller;
+﻿package com.jk.controller;
 
 import com.jk.bean.Comments;
 import com.jk.bean.MenuTree;
@@ -29,6 +29,7 @@ public class GoodController {
      @Resource
      GoodsService goodsService;
         //第一次提交99999999
+       //。。。。。。。。。。。
     @RequestMapping("getCheckCode")
     @ResponseBody
     public String getCheckCode(String email){
